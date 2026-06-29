@@ -1,2 +1,25 @@
-# enterprise-knowledge-assistant
-Enterprise-grade Retrieval-Augmented Generation system supporting multi-format documents, semantic search, citations, and production-ready APIs.
+# Enterprise Knowledge Assistant
+
+## Overview
+
+## Motivation
+
+## Features
+
+## Architecture
+
+## Tech Stack
+
+## Folder Structure
+
+## Roadmap
+
+## Installation
+
+## API Endpoints
+
+## Screenshots
+
+## Future Improvements
+
+## License
